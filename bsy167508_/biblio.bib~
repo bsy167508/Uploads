@@ -1,0 +1,13 @@
+@misc
+{	tutorialspoint,
+ 	title={tutorialspoint.com}, 
+ 	howpublished="\url{http://www.tutorialspoint.com/python}", 
+ 	journal={Python}
+}
+
+@misc
+{	tutorialspoint,
+ 	title={tutorialspoint.com}, 
+ 	howpublished="\url{http://www.tutorialspoint.com/mysql}", 
+ 	journal={MySQl}
+}
