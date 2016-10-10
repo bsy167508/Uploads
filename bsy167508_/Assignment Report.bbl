@@ -1,9 +1,6 @@
 \begin{thebibliography}{1}
 
-\bibitem{tutorialspointp}
-``tutorialspoint.com.'' \url{http://www.tutorialspoint.com/python}.
-
-\bibitem{tutorialspoints}
-``tutorialspoint.com.'' \url{http://www.tutorialspoint.com/mysql}.
+\bibitem{kivy.org}
+``kivy documentation.'' \url{https://kivy.org/docs/api-kivy.uix.htmln}.
 
 \end{thebibliography}

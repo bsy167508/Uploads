@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.7.27)  27 SEP 2016 12:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.7.27)  5 OCT 2016 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,91 +307,98 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-[3] <images/Selection_003.png, id=20, 504.88625pt x 413.545pt>
-File: images/Selection_003.png Graphic file (type png)
-
-<use images/Selection_003.png>
-Package pdftex.def Info: images/Selection_003.png used on input line 51.
-(pdftex.def)             Requested size: 353.41795pt x 289.4795pt.
- [4 <./images/Selection_003.png>]
-<images/shots11.pdf, id=24, 597.23125pt x 845.1575pt>
+[3] [4] <images/shots11.pdf, id=23, 597.23125pt x 845.1575pt>
 File: images/shots11.pdf Graphic file (type pdf)
- <use images/shots11.pdf>
-Package pdftex.def Info: images/shots11.pdf used on input line 59.
-(pdftex.def)             Requested size: 418.05902pt x 591.60622pt.
 
-[5 <./images/shots11.pdf>]
-<images/screenshot1.png, id=37, 898.35625pt x 198.7425pt>
+<use images/shots11.pdf>
+Package pdftex.def Info: images/shots11.pdf used on input line 63.
+(pdftex.def)             Requested size: 418.05902pt x 591.60622pt.
+ [5 <./images/shots11.pdf>]
+<images/screenshot1.png, id=41, 803.0pt x 630.355pt>
 File: images/screenshot1.png Graphic file (type png)
 
 <use images/screenshot1.png>
-Package pdftex.def Info: images/screenshot1.png used on input line 66.
-(pdftex.def)             Requested size: 718.68597pt x 158.9942pt.
- [6 <./images/screenshot1.png>]
-<images/Selection_001.png, id=41, 455.7025pt x 239.89626pt>
-File: images/Selection_001.png Graphic file (type png)
+Package pdftex.def Info: images/screenshot1.png used on input line 70.
+(pdftex.def)             Requested size: 642.40088pt x 504.28468pt.
 
-<use images/Selection_001.png>
-Package pdftex.def Info: images/Selection_001.png used on input line 74.
-(pdftex.def)             Requested size: 318.98956pt x 167.92622pt.
- [7 <./images/Selection_001.png>]
-<images/shots22.pdf, id=46, 597.23125pt x 845.1575pt>
-File: images/shots22.pdf Graphic file (type pdf)
- <use images/shots22.pdf>
-Package pdftex.def Info: images/shots22.pdf used on input line 82.
-(pdftex.def)             Requested size: 418.05902pt x 591.60622pt.
-
-[8 <./images/shots22.pdf>]
-<images/screenshot2.png, id=59, 715.67375pt x 204.765pt>
+<images/screenshot2.png, id=42, 803.0pt x 630.355pt>
 File: images/screenshot2.png Graphic file (type png)
 
 <use images/screenshot2.png>
-Package pdftex.def Info: images/screenshot2.png used on input line 89.
-(pdftex.def)             Requested size: 572.53978pt x 163.8122pt.
- [9 <./images/screenshot2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
+Package pdftex.def Info: images/screenshot2.png used on input line 75.
+(pdftex.def)             Requested size: 642.40088pt x 504.28468pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/screenshot3.png, id=43, 803.0pt x 630.355pt>
+File: images/screenshot3.png Graphic file (type png)
+
+<use images/screenshot3.png>
+Package pdftex.def Info: images/screenshot3.png used on input line 80.
+(pdftex.def)             Requested size: 642.40088pt x 504.28468pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/screenshot4.png, id=44, 803.0pt x 630.355pt>
+File: images/screenshot4.png Graphic file (type png)
+
+<use images/screenshot4.png>
+Package pdftex.def Info: images/screenshot4.png used on input line 85.
+(pdftex.def)             Requested size: 642.40088pt x 504.28468pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/screenshot5.png, id=45, 803.0pt x 630.355pt>
+File: images/screenshot5.png Graphic file (type png)
+
+<use images/screenshot5.png>
+Package pdftex.def Info: images/screenshot5.png used on input line 90.
+(pdftex.def)             Requested size: 642.40088pt x 504.28468pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/screenshot6.png, id=46, 803.0pt x 630.355pt>
+File: images/screenshot6.png Graphic file (type png)
+
+<use images/screenshot6.png>
+Package pdftex.def Info: images/screenshot6.png used on input line 95.
+(pdftex.def)             Requested size: 642.40088pt x 504.28468pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./images/screenshot1.png>] (./Assignment Report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 143--1
 
  []
 
-<images/Selection_004.png, id=63, 615.29875pt x 340.27126pt>
-File: images/Selection_004.png Graphic file (type png)
-
-<use images/Selection_004.png>
-Package pdftex.def Info: images/Selection_004.png used on input line 100.
-(pdftex.def)             Requested size: 430.70618pt x 238.18825pt.
- [10 <./images/Selection_004.png>]
-<images/shots33.pdf, id=67, 597.23125pt x 845.1575pt>
-File: images/shots33.pdf Graphic file (type pdf)
- <use images/shots33.pdf>
-Package pdftex.def Info: images/shots33.pdf used on input line 106.
-(pdftex.def)             Requested size: 418.05902pt x 591.60622pt.
-
-[11 <./images/shots33.pdf>] (./Assignment Report.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 111--1
-
- []
-
-[12]) [13
+[7 <./images/screenshot2.png>] [8 <./images/screenshot3.png>] [9 <./images/scre
+enshot4.png>] [10 <./images/screenshot5.png>] [11 <./images/screenshot6.png>])
+[12
 
 ] (./Assignment Report.aux) ) 
 Here is how much of TeX's memory you used:
- 3481 strings out of 494985
- 50296 string characters out of 6180356
- 119093 words of memory out of 5000000
- 6628 multiletter control sequences out of 15000+600000
+ 3475 strings out of 494985
+ 50160 string characters out of 6180356
+ 118090 words of memory out of 5000000
+ 6623 multiletter control sequences out of 15000+600000
  9576 words of font info for 34 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,10n,40p,621b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,40p,444b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 
-Output written on "Assignment Report.pdf" (13 pages, 903856 bytes).
+Output written on "Assignment Report.pdf" (12 pages, 851318 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,13 +1,7 @@
 @misc
-{	tutorialspoint,
+{	tutorialspointp,
  	title={tutorialspoint.com}, 
- 	howpublished="\url{http://www.tutorialspoint.com/python}", 
+ 	howpublished="\url{https://kivy.org/docs/api-kivy.uix.htmln}", 
  	journal={Python}
 }
 
-@misc
-{	tutorialspoint,
- 	title={tutorialspoint.com}, 
- 	howpublished="\url{http://www.tutorialspoint.com/mysql}", 
- 	journal={MySQl}
-}
