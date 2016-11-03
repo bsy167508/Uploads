@@ -1,3 +1,0 @@
-http://pythoncentral.io/category/python-how-tos/
-http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-15--generators-and-list-comprehensions
-http://rogerdudler.github.io/git-guide/

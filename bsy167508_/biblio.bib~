@@ -1,7 +1,0 @@
-@misc
-{	tutorialspointp,
- 	title={tutorialspoint.com}, 
- 	howpublished="\url{https://kivy.org/docs/api-kivy.uix.htmln}", 
- 	journal={Python}
-}
-
