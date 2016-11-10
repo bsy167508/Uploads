@@ -1,0 +1,7 @@
+@misc
+{	vhdlguru.blogspot.com,
+ 	title={Sockets Tutorial}, 
+ 	howpublished="\url{http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html}", 
+ 	journal={Xilinx}
+}
+

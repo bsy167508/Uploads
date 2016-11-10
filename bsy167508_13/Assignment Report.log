@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.9.25)  7 NOV 2016 22:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.9.25)  10 NOV 2016 01:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -296,150 +296,112 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-[3]
+<images/sc11.png, id=15, 468.75125pt x 640.3925pt>
+File: images/sc11.png Graphic file (type png)
+ <use images/sc11.png>
+Package pdftex.def Info: images/sc11.png used on input line 36.
+(pdftex.def)             Requested size: 234.37505pt x 320.19547pt.
 
-! LaTeX Error: File `images/shots11' not found.
+[3 <./images/sc11.png>] <images/sc12.png, id=19, 654.445pt x 416.55624pt>
+File: images/sc12.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 	\includegraphics[scale=0.5]{images/shots11}
-                                                 
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[4] <images/screenshot11.png, id=22, 562.1pt x 478.78876pt>
+<use images/sc12.png>
+Package pdftex.def Info: images/sc12.png used on input line 42.
+(pdftex.def)             Requested size: 327.2217pt x 208.2776pt.
+ [4 <./images/sc12.png>]
+<images/screenshot11.png, id=23, 726.715pt x 464.73625pt>
 File: images/screenshot11.png Graphic file (type png)
 
 <use images/screenshot11.png>
-Package pdftex.def Info: images/screenshot11.png used on input line 62.
-(pdftex.def)             Requested size: 449.68062pt x 383.03152pt.
+Package pdftex.def Info: images/screenshot11.png used on input line 49.
+(pdftex.def)             Requested size: 581.37277pt x 371.78949pt.
 
-<images/screenshot12.png, id=23, 816.04875pt x 571.13374pt>
+<images/screenshot12.png, id=24, 726.715pt x 464.73625pt>
 File: images/screenshot12.png Graphic file (type png)
 
 <use images/screenshot12.png>
-Package pdftex.def Info: images/screenshot12.png used on input line 67.
-(pdftex.def)             Requested size: 652.8399pt x 456.90762pt.
+Package pdftex.def Info: images/screenshot12.png used on input line 54.
+(pdftex.def)             Requested size: 581.37277pt x 371.78949pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5 <./images/screenshot11.png>]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
 [6 <./images/screenshot12.png>]
-<images/shots21.png, id=30, 803.0pt x 602.25pt>
-File: images/shots21.png Graphic file (type png)
- <use images/shots21.png>
-Package pdftex.def Info: images/shots21.png used on input line 81.
-(pdftex.def)             Requested size: 562.09618pt x 421.57211pt.
+<images/sc21.png, id=31, 700.6175pt x 445.665pt>
+File: images/sc21.png Graphic file (type png)
+ <use images/sc21.png>
+Package pdftex.def Info: images/sc21.png used on input line 67.
+(pdftex.def)             Requested size: 490.42891pt x 311.96336pt.
+ [7 <./images/sc21.png>] <images/sc22.png, id=36, 763.85374pt x 437.635pt>
+File: images/sc22.png Graphic file (type png)
 
-Overfull \hbox (61.61218pt too wide) in paragraph at lines 81--82
+<use images/sc22.png>
+Package pdftex.def Info: images/sc22.png used on input line 73.
+(pdftex.def)             Requested size: 534.69397pt x 306.3424pt.
+
+Overfull \hbox (34.20998pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
-[7 <./images/shots21.png>] <images/shots22.png, id=36, 803.0pt x 602.25pt>
-File: images/shots22.png Graphic file (type png)
+[8 <./images/sc22.png>] <images/sc23.png, id=40, 781.92125pt x 437.635pt>
+File: images/sc23.png Graphic file (type png)
 
-<use images/shots22.png>
-Package pdftex.def Info: images/shots22.png used on input line 87.
-(pdftex.def)             Requested size: 562.09618pt x 421.57211pt.
+<use images/sc23.png>
+Package pdftex.def Info: images/sc23.png used on input line 79.
+(pdftex.def)             Requested size: 547.34114pt x 306.3424pt.
 
-Overfull \hbox (61.61218pt too wide) in paragraph at lines 87--88
+Overfull \hbox (46.85715pt too wide) in paragraph at lines 79--80
  [][] 
  []
 
-[8 <./images/shots22.png>]
-<images/screenshot21.png, id=41, 781.92125pt x 493.845pt>
+[9 <./images/sc23.png>] <images/sc24.png, id=44, 718.685pt x 274.02374pt>
+File: images/sc24.png Graphic file (type png)
+
+<use images/sc24.png>
+Package pdftex.def Info: images/sc24.png used on input line 85.
+(pdftex.def)             Requested size: 503.07607pt x 191.8153pt.
+
+Overfull \hbox (2.59207pt too wide) in paragraph at lines 85--86
+ [][] 
+ []
+
+[10 <./images/sc24.png>]
+<images/screenshot21.png, id=48, 1371.1225pt x 770.88pt>
 File: images/screenshot21.png Graphic file (type png)
 
 <use images/screenshot21.png>
-Package pdftex.def Info: images/screenshot21.png used on input line 94.
-(pdftex.def)             Requested size: 625.53786pt x 395.07652pt.
- [9 <./images/screenshot21.png>]
-<images/screenshot22.png, id=45, 965.6075pt x 517.935pt>
-File: images/screenshot22.png Graphic file (type png)
-
-<use images/screenshot22.png>
-Package pdftex.def Info: images/screenshot22.png used on input line 100.
-(pdftex.def)             Requested size: 772.48706pt x 414.34854pt.
- [10 <./images/screenshot22.png>]
-<images/screenshot23.png, id=49, 745.78625pt x 496.85625pt>
-File: images/screenshot23.png Graphic file (type png)
-
-<use images/screenshot23.png>
-Package pdftex.def Info: images/screenshot23.png used on input line 106.
-(pdftex.def)             Requested size: 596.62982pt x 397.48553pt.
- [11 <./images/screenshot23.png>]
-<images/screenshot24.png, id=53, 791.95876pt x 459.7175pt>
-File: images/screenshot24.png Graphic file (type png)
-
-<use images/screenshot24.png>
-Package pdftex.def Info: images/screenshot24.png used on input line 112.
-(pdftex.def)             Requested size: 475.17892pt x 275.83263pt.
- [12 <./images/screenshot24.png>]
-<images/screenshot25.png, id=57, 1078.0275pt x 689.57625pt>
-File: images/screenshot25.png Graphic file (type png)
-
-<use images/screenshot25.png>
-Package pdftex.def Info: images/screenshot25.png used on input line 118.
-(pdftex.def)             Requested size: 646.8215pt x 413.74893pt.
- [13 <./images/screenshot25.png>]
-<images/screenshot26.png, id=62, 1091.07625pt x 688.5725pt>
-File: images/screenshot26.png Graphic file (type png)
-
-<use images/screenshot26.png>
-Package pdftex.def Info: images/screenshot26.png used on input line 124.
-(pdftex.def)             Requested size: 654.6508pt x 413.14668pt.
- [14 <./images/screenshot26.png>]
-(./Assignment Report.bbl [15]
-Overfull \hbox (70.40395pt too wide) in paragraph at lines 4--6
-[]\OT1/cmr/m/n/10.95 ``Vhdl doc-u-men-ta-tion.'' $\OT1/cmtt/m/n/10.95 http : / 
-/ vhdlguru . blogspot . in / 2010 / 03 / here-[]is-[]code-[]for-[]4-[]bit-[]com
-parator-[]using .
- []
-
-) [16
+Package pdftex.def Info: images/screenshot21.png used on input line 92.
+(pdftex.def)             Requested size: 1096.8995pt x 616.70485pt.
+ [11 <./images/screenshot21.png>]
+(./Assignment Report.bbl [12]) [13
 
 ] (./Assignment Report.aux) ) 
 Here is how much of TeX's memory you used:
- 3498 strings out of 494985
- 50523 string characters out of 6180356
+ 3478 strings out of 494985
+ 50121 string characters out of 6180356
  117090 words of memory out of 5000000
- 6631 multiletter control sequences out of 15000+600000
- 9576 words of font info for 34 fonts, out of 8000000 for 9000
+ 6626 multiletter control sequences out of 15000+600000
+ 9268 words of font info for 33 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,9n,37p,665b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,9n,37p,301b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-
-Output written on "Assignment Report.pdf" (16 pages, 902122 bytes).
+amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
+0.pfb>
+Output written on "Assignment Report.pdf" (13 pages, 1073387 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
