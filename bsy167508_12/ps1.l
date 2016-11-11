@@ -1,0 +1,72 @@
+%{
+	#include <stdio.h>
+	#include <stdlib.h>
+	int line[7], move[100];
+	int invalid=1;
+%}
+
+OB	\[		
+CB	\]		
+COM	\"	
+NAME	[ a-zA-Z]	
+WS	[ \t]	
+YY	[1-9][1-9][1-9][1-9]	
+MM	[0-1][1-9]	
+DD	[0-3][0-9]	
+RD	[0-9]+	
+SNO	{RD}\.	
+PM	[a-h][1-8]	
+NPM	[KQBNR]{PM}	
+PC	[a-h]x{PM}	
+NPC	[KQBNR]x{PM}	
+PP	{PM}=[KQBNR]		
+CAST	(O\-O)|(O\-O\-O)			
+ANPM	[KQBNR]([a-h]|[1-8]){PM}		
+PMC	({PM}|{PP}|{PC})[+#]		
+NPMC	({NPM}|{NPC})[+#]		
+EVENT	{OB}"Event "{COM}{NAME}*{COM}{CB}	
+DATE	{OB}"Date "{COM}{YY}\.{MM}\.{DD}{COM}{CB}	
+SITE	{OB}"Site "{COM}{NAME}*{COM}{CB}	
+ROUND	{OB}"Round "{COM}{RD}{COM}{CB}		
+WHITE	{OB}"White "{COM}{NAME}*{COM}{CB}	
+BLACK	{OB}"Black "{COM}{NAME}*{COM}{CB}	
+RESULT	{OB}"Result "[\"][0-1]\-[0-1][\"][\]]	
+COMB	({PM}|{NPM}|{PC}|{NPC}|{PP}|{CAST}|{ANPM}|{PMC}|{NPMC})	
+VALMOV	{COMB}{WS}{COMB}		
+	
+%x seq1
+%%
+	/* if any of the metadata aren't matched right the corresponding line number is set to -1.*/
+{EVENT}			line[0]=-1;
+{SITE}			line[1]=-1;
+{DATE}			line[2]=-1;
+{ROUND}			line[3]=-1;
+{WHITE}			line[4]=-1;
+{BLACK}			line[5]=-1;
+{RESULT}		line[6]=-1; BEGIN seq1;
+	/* Counting moves and validating them */
+<seq1>{SNO}		++move[0]; invalid=1;
+<seq1>{VALMOV}		invalid=0;
+<seq1>.			if(invalid) move[move[0]]=-1; BEGIN seq1;
+.			;
+%%
+
+int main(int argc,char *argv[])
+{
+	int i=0;
+	for(i;i<100;i++)
+	move[i]=0;
+	for(i=0;i<7;i++)
+	line[i]=0;
+	if(argc==2)
+	{yyin = fopen(argv[1],"rb");
+	yylex();
+	for(i=0;i<7;i++)
+		if(line[i]==0)	// Detect those lines that are not equal to -1.
+			printf("Error at line %d\n", i+1);
+	for(i=1;i<=move[0];i++)
+		if(move[i]==-1) // Detect moves that are equal to -1
+			printf("Error in move %d\n", i);
+	fclose(yyin);
+	}
+}	

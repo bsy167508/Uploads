@@ -1,0 +1,7 @@
+@misc
+{	http://dinosaur.compilertools.net/,
+ 	title={The Lex and Yacc page}, 
+ 	howpublished="\url{http://dinosaur.compilertools.net/}", 
+ 	journal={Flex/Bison}
+}
+
